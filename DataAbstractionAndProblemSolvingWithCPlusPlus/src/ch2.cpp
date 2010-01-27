@@ -103,7 +103,7 @@ void WriteIntegers_ex01( int N )
 	}
 }
 
-int main()
+int Notmain()
 {
 	double myArray[] = { 3, 6, 9 };
 	cout << Product_st1( myArray, 3 ) << endl;
