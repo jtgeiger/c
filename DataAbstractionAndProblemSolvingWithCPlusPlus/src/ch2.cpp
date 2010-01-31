@@ -5,6 +5,7 @@
  *      Author: jt
  */
 
+#include "ch2.h"
 #include <iostream>
 #include <string.h>
 using namespace std;
@@ -103,7 +104,7 @@ void WriteIntegers_ex01( int N )
 	}
 }
 
-int Notmain()
+int main_ch2()
 {
 	double myArray[] = { 3, 6, 9 };
 	cout << Product_st1( myArray, 3 ) << endl;

@@ -5,11 +5,12 @@
  *      Author: jt
  */
 
+#include "ch3.h"
 #include "Polynomial_ch03ex07.h"
 #include <iostream>
 using namespace std;
 
-int main()
+int main_ch3()
 {
 	cout << "Started." << endl;
 	Polynomial_ch03ex07 poly;
